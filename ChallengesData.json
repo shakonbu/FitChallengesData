@@ -46,7 +46,7 @@
       "cr":"78%",
       "rating":"4.8",
       "bg":"/src/assets/strengthcover.jpg",
-      "isCompleted":"false,
+      "isCompleted":"false",
       "startdate":"",
       "enddate":""
     },
@@ -63,7 +63,7 @@
       "cr":"78%",
       "rating":"4.8",
       "bg":"/src/assets/10kSteps.avif",
-      "isCompleted":"false,
+      "isCompleted":"false",
       "startdate":"",
       "enddate":""
     },
