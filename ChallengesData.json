@@ -11,21 +11,21 @@
       "goal":"Complete 20 morning yoga sessions",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"../assets/yogacover.jpg"
+      "bg":"/src/assets/yogacover.jpg"
     },
     {
       "id":"2",
       "title": "Run 100 Miles",
       "category": "Running",
       "level": "Intermediate",
-      "image": "../assets/run_100_miles.jpg",
+      "image": "/src/assets/run_100_miles.jpg",
       "participants": "892",
       "description":"Build your running endurance with this progressive challenge. Track every mile and watch yourself grow stronger!",
       "duration":"60 days",
       "goal":"Run a total of 100 miles",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"../assets/yogacover.jpg"
+      "bg":"/src/assets/yogacover.jpg"
     },
     {
       "id":"3",
@@ -39,48 +39,48 @@
       "goal":"Complete 48 strength workouts",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"../assets/strengthcover.jpg"
+      "bg":"/src/assets/strengthcover.jpg"
     },
     {
       "id":"4",
       "title": "10K Steps Daily",
       "category": "Walking",
       "level": "Beginner",
-      "image": "../assets/10kSteps.avif",
+      "image": "/src/assets/10kSteps.avif",
       "participants": "3,249",
       "description":"The ultimate walking challenge! Commit to 10,000 steps every day for a month and build a lasting healthy habit.",
       "duration":"30 days",
       "goal":"Reach 10K steps for 25 days",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"../assets/10kSteps.avif"
+      "bg":"/src/assets/10kSteps.avif"
     },
     {
       "id":"5",
       "title": "Mindful Meditation March",
       "category": "Mindfulness",
       "level": "Beginner",
-      "image": "../assets/meditation.webp",
+      "image": "/src/assets/meditation.webp",
       "participants": "1,876",
       "description":"Cultivate inner peace and reduce stress with daily meditation practice. All levels welcome!",
       "duration":"31 days",
       "goal":"Meditate for 15 minutes, 25 days",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"../assets/meditation.webp"
+      "bg":"/src/assets/meditation.webp"
     },
     {
       "id":"6",  
       "title": "Cycling Century",
       "category": "Cycling",
       "level": "Advanced",
-      "image": "../assets/cycling.avif",
+      "image": "/src/assets/cycling.avif",
       "participants": "654",
       "description":"Ride 100 kilometers over the next two weeks. Explore new routes and build cycling endurance!",
       "duration":"14 days",
       "goal":"Cycle 100km total distance",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"../assets/cycling.avif"
+      "bg":"/src/assets/cycling.avif"
     }
   ]
