@@ -13,8 +13,8 @@
       "rating":"4.8",
       "bg":"/src/assets/yogacover.jpg",
       "isCompleted":"false",
-        "startdate":"",
-        "enddate":""
+      "startdate":"",
+      "enddate":""
         
     },
     {
@@ -31,8 +31,8 @@
       "rating":"4.8",
       "bg":"/src/assets/yogacover.jpg",
       "isCompleted":"false",
-        "startdate":"",
-        "enddate":""
+      "startdate":"",
+      "enddate":""
     },
     {
       "id":"3",
@@ -48,8 +48,8 @@
       "rating":"4.8",
       "bg":"/src/assets/strengthcover.jpg",
       "isCompleted":"false,
-        "startdate":"",
-        "enddate":""
+      "startdate":"",
+      "enddate":""
     },
     {
       "id":"4",
@@ -65,8 +65,8 @@
       "rating":"4.8",
       "bg":"/src/assets/10kSteps.avif",
       "isCompleted":"false,
-        "startdate":"",
-        "enddate":""
+      "startdate":"",
+      "enddate":""
     },
     {
       "id":"5",
@@ -82,8 +82,8 @@
       "rating":"4.8",
       "bg":"/src/assets/meditation.webp",
       "isCompleted":"false",
-        "startdate":"",
-        "enddate":""
+      "startdate":"",
+      "enddate":""
     },
     {
       "id":"6",  
@@ -99,7 +99,7 @@
       "rating":"4.8",
       "bg":"/src/assets/cycling.avif",
       "isCompleted":"false",
-        "startdate":"",
-        "enddate":""
+      "startdate":"",
+      "enddate":""
     }
   ]
