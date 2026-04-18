@@ -1,6 +1,6 @@
 [
    {
-      "id":"1",
+      "chlngid":"1",
       "title": "30-Day Morning Yoga",
       "category": "Yoga",
       "level": "Beginner",
@@ -14,6 +14,7 @@
       "bg":"/src/assets/yogacover.jpg",
       "isCompleted":"false",
       "startdate":"02/04/2026",
-      "enddate":"02/05/2026"       
+      "enddate":"02/05/2026",
+      "userid":"1"
     }
   ]
