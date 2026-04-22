@@ -28,7 +28,7 @@
       "goal":"Run a total of 100 miles",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"/src/assets/yogacover.jpg",
+      "bg":"/src/assets/running.webp",
       "isCompleted":"false",
       "startdate":"",
       "enddate":""
@@ -45,7 +45,7 @@
       "goal":"Complete 48 strength workouts",
       "cr":"78%",
       "rating":"4.8",
-      "bg":"/src/assets/strengthcover.jpg",
+      "bg":"/src/assets/battlerope2.jpg",
       "isCompleted":"false",
       "startdate":"",
       "enddate":""
